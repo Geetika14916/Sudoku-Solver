@@ -37,7 +37,7 @@ This is a simple web-based Sudoku solver application. It allows users to load Su
 
 This project was created by Geetika Shekhawat. It utilizes the following resources:
 
-- Backtracking algorithm for solving Sudoku puzzles: [(https://www.geeksforgeeks.org/sudoku-backtracking-7/)]
+- Backtracking algorithm for solving Sudoku puzzles: [https://www.geeksforgeeks.org/sudoku-backtracking-7/]
 
 
 
